@@ -1,7 +1,7 @@
 # Healthcare_anaysis--Patient_waiting_list
 
 ## The process of creating a dashboard in Power BI consist of following steps: 
-1.Requirement Gathering
+### 1.Requirement Gathering
 2.Data Collection
 3.Data Transformation & Modelling
 4.Data Visualization Blueprint
